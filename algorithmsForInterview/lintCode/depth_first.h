@@ -4,9 +4,13 @@
 
 #ifndef LINTCODE_DEPTH_FIRST_H
 #define LINTCODE_DEPTH_FIRST_H
-
+using namespace std
 
 class depth_first {
+public:
+    vector<vector<int>> combinationSum(vector<int> &candidates, int target) {
+
+    }
 
 };
 
